@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">PunjabGuide</string>
+    <string name="city1">Chandigarh</string>
+    <string name="city2">Amritsar</string>
+    <string name="city3">Patiala</string>
+    <string name="city4">Jalandhar</string>
+
+    <string name="rockGarden">Rock Garden</string>
+    <string name="rock_add">Rock Garden, Sector 1, Chandigarh</string>
+    <string name="rock_desc">Counted among the best places to visit in Chandigarh, Nek Chand Rock Garden is one of the significant tourist attractions in Chandigarh. Renowned as a remarkable and unique sculpture garden, the place is outstanding master piece.</string>
+
+    <string name="roseGarden">Rose Garden</string>
+    <string name="rose_add">Track, 16B, Sector 16, Chandigarh</string>
+    <string name="rose_desc">Rose Garden is one of the most renowned tourist places in Chandigarh. As one of the landmarks of Chandigarh, Rose garden is considered in every list of best places to visit in Chandigarh.</string>
+
+    <string name="sukhnaLake">Sukhna Lake</string>
+    <string name="lake_add">Sukhna Lake, Sector 1, Chandigarh</string>
+    <string name="lake_desc">If you are looking to relax then, this beautiful lake in Chandigarh will help you do that. One of the prominent tourist attractions in Chandigarh, Sukhna lake resides on the foothills of Himalaya.</string>
+    
+    <string name="sector17">Musical Fountain Show Sector 17</string>
+    <string name="sector_add">Sector 17, Chandigarh</string>
+    <string name="sector_desc">The fountain show in sector 17, the prominent shopping areas of Chandigarh is small yet beautiful half an hour musical show operating every evening. This show is followed by the lazer show and musical fountain and is beautifully presented.</string>
+    
+    <string name="goldenTemple">Golden Temple</string>
+    <string name="temple_add">Atta Mandi, Katra Ahluwalia</string>
+    <string name="temple_desc">Also called Sri Harmandir Sahib or Swarna Mandir, the shrine was designed by Guru Arjan Sahib and its foundation laid by Muslim saint Hazrat Mian Mir ji of Lahore on 1st December, 1588.</string>
+    
+    <string name="jallianwalaBagh">Jallianwala Bagh</string>
+    <string name="bagh_add">Golden Temple Rd</string>
+    <string name="bagh_desc">Jallianwala Bagh is a place of great historical importance during the Indian struggle for Independence.</string>
+    
+    <string name="wagahBorder">Wagah Border</string>
+    <string name="wagah_add">Hardo Rattan</string>
+    <string name="wagah_desc">Wagah Border is a road border between India and Pakistan. It is a famous tourist spot nowadays because of the famous beating retreat ceremony that is held every day before sunset.</string>
+    
+    <string name="guruMahal">Guru Ke Mahal</string>
+    <string name="mahal_add">24, Guru Bazar Rd, Shastri Market, Katra Ahluwalia</string>
+    <string name="mahal_desc">Housing the Granth Sahib and their gurus, Guru Ke Mahal was founded by Guru Ram Das in 1573 as a little cottage that went on to shelter the great gurus of the Sikhs.</string>
+    
+    <string name="tulsiMandir">Tulsi Mandir</string>
+    <string name="mandir_add">Kot Kishan Chand locality</string>
+    <string name="mandir_desc">Tulsi Mandir is the temple of Vrinda, the wife of Jalandhara. </string>
+    
+    <string name="church">St. Marys Cathedral Church</string>
+    <string name="church_add">59, The Mall Road, Jalandhar Cantt.</string>
+    <string name="church_desc">St. Marys Cathedral Church was built by Rev. Fr. John McDonnell in 1947. It was looked after by various chaplains appointed to Jalandhar by the Diocese of Lahore.</string>
+
+    <string name="scienceCity">Pushpa Gujral Science City</string>
+    <string name="science_add">Pushpa Gujral Science City</string>
+    <string name="sciene_desc">Pushpa Gujral Science City is a joint project of the Government of India and Punjab Government. It has been set up in 72 acres of land in the heart of Punjab, on the Jalandhar-Kapurthala Road.</string>
+
+    <string name="shivMandir">Shiv Mandir</string>
+    <string name="shivM_add">Guru Nanakpura East</string>
+    <string name="shivM_desc">The Shiva Mandir, built by the Nawab of Sultanpur Lodhi</string>
+
+    <string name="qilaMubarak">Qila Mubarak complex</string>
+    <string name="qila_add">Quila Androon, Chandni Chowk, Adalat Bazar, Patiala</string>
+    <string name="qila_desc">The Qila Mubarak complex is a rampart fort cum palace built in Sikh Palace architectural style- a derivative of Mughal and Rajput style of architecture in India.</string>
+
+    <string name="sheeshMahal">Sheesh Mahal</string>
+    <string name="sheeshM_add">Old Moti Bagh, Moti Bagh</string>
+    <string name="sheeshM_desc">Literally meaning the Palace of Mirrors, Sheesh Mahal was built as a part of the Old Moti Bagh Palace in the 19th century. There are a lot of frescoes, mostly made under the reign of Maharaja Narinder Singh.</string>
+
+    <string name="baradariGardens">Baradari Gardens</string>
+    <string name="baradari_add">North Patiala city</string>
+    <string name="baradari_desc">Baradari Gardens, located north of Old Patiala city nearby Sheranwala Gate was built during the reign of Maharaja Rajinder Singh. It houses a lot of rare trees, shrubs and flowers along which graces the presence of colonial buildings.</string>
+    
+    <string name="kaliMandir">Kali Mata Mandir</string>
+    <string name="kaliM_add">Manjit Nagar, Sidhu Colony</string>
+    <string name="kaliM_desc">Kali Mata Mandir in Patiala is a prominent Hindu place of worship. It is dedicated to goddess Durga, an incarnation of Goddess Kali. Built by the late Maharaja Bhupinder Singh in the year 1936, it houses a 6-feet idol of the goddess alongside sacred flame which the Maharaja brought from the East Indian city of Calcutta.</string>
+
+    <string name="gurudwara">Gurudwara Dukh Nivaran Sahib</string>
+    <string name="gurudwara_add">State Highway 8, Upkar Nagar</string>
+    <string name="gurudwara_desc">Gurudwara Dukh Nivaran Sahib is a holy Sikh shrine in Patiala that was graced by the ninth Sikh Guru - Guru Teg Bahadur. </string>
+
+</resources>
